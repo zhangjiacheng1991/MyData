@@ -11,6 +11,9 @@
 5帮助
 
 第一次使用先添加软件库:
+原脚本中的地址，在添加导入kali公钥时会报错，所以替换为 keyserver.ubuntu.com
+vi 打开katools脚本 找打脚本中的 pgp.mit.edu 修改为keyserver.ubuntu.com
 输入1 回车 再次 输入1回车(back退回上一界面)
+
 添加软件:
 输入2 回车 选择类别 添加软件
