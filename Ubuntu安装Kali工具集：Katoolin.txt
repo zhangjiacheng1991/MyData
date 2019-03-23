@@ -1,0 +1,16 @@
+第一步: 安装Python3(2.7以上版本)
+第二步:安装Git apt-get install git
+第三步:sudo su
+第四步:git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+第五步:chmod +x /usr/bin/katoolin
+执行katoolin命令
+1查看软件库
+2查看软件分类
+3安装经典菜单通知
+4安装kali菜单
+5帮助
+
+第一次使用先添加软件库:
+输入1 回车 再次 输入1回车(back退回上一界面)
+添加软件:
+输入2 回车 选择类别 添加软件

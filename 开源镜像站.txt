@@ -1,0 +1,5 @@
+df -hl 查看磁盘使用情况
+没有ifconfig命令 apt-get install net-tools
+arp 查看路由表
+arp -s ip 物理地址 添加静态路由表
+alias xxx="别名"
