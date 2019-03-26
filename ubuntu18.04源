@@ -1,65 +1,34 @@
-搜狐开源镜像站 
-http://mirrors.sohu.com/
+#中科大
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+#deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic main restricted universe multiverse
+#deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+#deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+#deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+#deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+#阿里云源
+deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
+#deb-src http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
+#deb-src http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
+#deb-src http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
+#deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
+#deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
 
-网易开源镜像站 
-http://mirrors.163.com/
-
-阿里云开源镜像站 
-http://mirrors.aliyun.com/
-
-公云开源镜像站 
-http://mirrors.pubyun.com/
-
-首都在线开源镜像站 
-http://mirrors.yun-idc.com/
-
-linux运维派开源镜像站 
-http://mirrors.skyshe.cn/
-
-中科院开源镜像站 
-http://mirrors.opencas.cn/
-
-北京理工大学开源镜像站 
-http://mirror.bit.edu.cn/web/
-
-北京交通大学开源镜像站 
-http://mirror.bjtu.edu.cn/cn/
-
-兰州大学开源镜像站 
-http://mirror.lzu.edu.cn/
-
-中国科技大学开源镜像站 
-http://mirrors.ustc.edu.cn/
-
-浙江大学开源镜像站 
-http://mirrors.zju.edu.cn/
-
-厦门大学开源镜像站 
-http://mirrors.xmu.edu.cn/
-
-东北大学开源镜像站 
-http://mirror.neu.edu.cn/
-
-华中科技大学开源镜像站 
-http://mirrors.hust.edu.cn/
-
-重庆大学开源镜像站 
-http://mirrors.cqu.edu.cn/
-
-东软信息学院开源镜像站 
-http://mirrors.neusoft.edu.cn/
-
-大连理工大学开源镜像站 
-http://mirror.dlut.edu.cn/
-
-中山大学开源镜像站 
-http://mirror.sysu.edu.cn/
-
-上海交通大学ftp站 
-http://ftp.sjtu.edu.cn/
-
-北京大学ftp站 
-ftp://ftp.pku.edu.cn/
-
-北京邮电大学ftp站 
-ftp://ftp.bupt.edu.cn/
+#清华源
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
