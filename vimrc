@@ -75,7 +75,6 @@ func SetTitle()
 	if &filetype == 'sh'
 		call append(line(".")+5,"\#!/bin/bash")
 		call append(line(".")+6,"")
-		:6gg<Tab>
 	endif
 	if &filetype == 'cpp'
 		call append(line(".")+5,"#include<iostream>")
