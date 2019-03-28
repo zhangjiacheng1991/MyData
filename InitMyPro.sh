@@ -14,7 +14,9 @@ read -p "Continue(y/n)?" CONT
 if [ "$CONT" = "n" ]; then
 	exit 0;
 fi
+#安装kali工具包
 git clone git@github.com:zhangjiacheng1991/MyData.git && cp ./MyData/katoolin/katoolin.py /usr/bin/katoolin && chmod +x /usr/bin/katoolin
 
-
+#安装mesasploit
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
 
