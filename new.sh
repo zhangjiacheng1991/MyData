@@ -6,7 +6,7 @@
 #############################################
 !/bin/bash
 echo "安装系统工具"
-apt-get install gcc g++ gdb vim git -y
+apt-get install gcc g++ gdb vim git net-tools -y
 
 echo "配置git"
 git config --global user.email "437525123@qq.com"
@@ -25,3 +25,7 @@ if [ "$CONT" = "n" ]; then
 	exit 0;
 fi
 
+
+#install libusb1.0
+apt-get install libusb-dev
+apt-get install libusb-1.0-0-dev
